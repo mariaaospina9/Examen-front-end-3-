@@ -19,6 +19,5 @@ Este proyecto es un formulario creado en React para un examen de Front-end. El f
 - **Validaciones**: Los campos principales (nombre de la película y género) tienen validaciones específicas que deben cumplirse para que el formulario se envíe correctamente.
 - **Estilos**: Los estilos están definidos en un archivo `Form.css` para dar un diseño limpio y organizado.
 
-## Estructura del Proyecto
 
 
